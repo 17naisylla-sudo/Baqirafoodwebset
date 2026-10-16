@@ -1,0 +1,6 @@
+{
+  "name": "BAQIRA FOOD — Dark Luxury Tahu Bakso & Bakso Daging",
+  "description": "Website resmi BAQIRA FOOD. Tahu Bakso Sapi, Ayam, Ikan dan Bakso Daging Kuah berasio 6:1 (1.5kg daging asli : 250g tapioka). Merek Terdaftar HAKI IDM 001312402 & Halal BPJPH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
